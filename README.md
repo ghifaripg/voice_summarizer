@@ -41,10 +41,9 @@ Need to transcribe and summarize speech? This feature converts **spoken audio in
 ## 🔧 Technologies Used
 
 - **Programming Language**: Python  
-- **NLP Libraries**: spaCy, NLTK, or Transformers (e.g., Hugging Face)  
-- **Speech Recognition**: Google Speech-to-Text API / OpenAI Whisper  
-- **Frontend/UI**: Streamlit or Flask (if applicable)  
-- **Deployment**: Local environment or cloud-based platforms  
+- **NLP Libraries**: spaCy, NLTK, or Transformers
+- **Speech Recognition**: Google Speech-to-Text API
+- **Deployment**: Local environment
 
 ---
 
